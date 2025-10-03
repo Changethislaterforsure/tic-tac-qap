@@ -1,5 +1,5 @@
 package com.example.tictactoe;
-
+// comment to test github actions
 public class Main {
     public static void main(String[] args) {
         String p1 = args.length > 0 ? args[0] : "Player 1";
